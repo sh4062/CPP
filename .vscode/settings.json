@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "sstream": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "in.h": "c",
+        "poll.h": "c",
+        "unistd.h": "c",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "mutex": "cpp",
+        "system_error": "cpp",
+        "string.h": "c"
+    }
+}
